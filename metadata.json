@@ -1,0 +1,8 @@
+{
+  "name": "DJMIX REPLICA",
+  "description": "Premium touch and keyboard rhythm experience with local video import, profile customization, and high-fidelity audio feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
